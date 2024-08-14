@@ -33,3 +33,4 @@ Feedback de bugs e sugestões de melhorias são bme-vindos! Siga as diretrizes a
 Este projeto está licenciado sob a MIT License.
 
 ## Autora e Contribuidores
+Matheus Leander  https://github.com/MatheusLeander
